@@ -45,7 +45,7 @@ Tujuan utama dari task ini adalah memahami:
 ## 📂 Dataset & Resources
 
 📄 Spreadsheet (Data & Query):
-> 🔗 [Paste Spreadsheet Link Here]
+> 🔗 (https://docs.google.com/spreadsheets/d/1ukP0EvXlTKfL7tfQ1KuwDaFI7ue6oSJRhK7gk7Gtg-s/edit?gid=1101905440#gid=1101905440)
 
 📊 Presentation Slides (Insight & Explanation):
 > 🔗 [Paste Google Slides Link Here]
